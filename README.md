@@ -1,5 +1,7 @@
 ## Hi there, I'm Navraj Kalsi :wave:
 
+I love to **think** & **learn**.
+
 :computer: I started my coding journey at 16, and after 4 years of honing my skills, I've built a strong foundation across several technologies. Here's a quick overview:
 - Python was my first language (no surprises there!). After mastering the basics, I explored front-end development with HTML & CSS.
 - JavaScript unlocked the power of the DOM and introduced me to dynamic web development.
