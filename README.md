@@ -18,9 +18,26 @@ Things about me:
 - I use Neovim btw.
 - I love movies and true IMAX.
 
+Languages I use:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+Technologies I use:
+
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) -->
+
+<br>
+
 I'm seeking a **backend developer role** to begin my programming career.
 
 If you're hiring for a similar position, feel free to [reach out](mailto:navrajkalsi@icloud.com) - I'd love to chat!
 
 ---
-Thanks for stopping by my profile! Let's build something amazing together.
+Thanks for stopping by my profile!
+
