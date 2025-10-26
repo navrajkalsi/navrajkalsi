@@ -33,10 +33,4 @@ Softwares I use:
 
 <br>
 
-I'm seeking a **backend developer role** to begin my programming career.
-
-If you're hiring for a similar position, feel free to [reach out](mailto:navrajkalsi@icloud.com) - I'd love to chat!
-
----
 Thanks for stopping by my profile!
-
