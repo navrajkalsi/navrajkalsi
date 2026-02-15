@@ -19,9 +19,8 @@ Currently, I am working on:
 
 Things about me:
 
-- I use Arch btw.
-- I use Neovim btw.
-- I love movies and true IMAX.
+- I use **Arch** & **Neovim** btw.
+- I love movies and true **IMAX**.
 
 Languages I use:
 
