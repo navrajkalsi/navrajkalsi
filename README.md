@@ -12,7 +12,7 @@ Currently, I am working on:
       served using **[server-c](https://github.com/navrajkalsi/server-c)** and proxied by **[proxy-c](https://github.com/navrajkalsi/proxy-c)**.
 - [x] [proxy-c](https://github.com/navrajkalsi/proxy-c): An **asynchronous, reactor-pattern based
       reverse proxy**, with HTTPS support and host redirection.
-- [ ] [Learning Rust...](https://doc.rust-lang.org/book/)
+- [ ] [gsim-rs](https://github.com/navrajkalsi/gsim-rs): **Brewing...**
 <!-- - [ ] Figuring out... -->
 
 <br>
